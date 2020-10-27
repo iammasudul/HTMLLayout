@@ -1,0 +1,20 @@
+
+/* Table - Align Middle of a Row */
+ td {
+   text-align: center;
+   vertical-align: middle;
+ }
+ th {
+   text-align: center;
+   vertical-align: middle;
+ }
+
+/* Table - Change Cell Color */
+ .cell_color{
+   background-color: lightcoral;
+}
+.cell_color_div{
+   background-color: lightcoral;
+   border: 5px outset red;
+   text-align: center;
+}
